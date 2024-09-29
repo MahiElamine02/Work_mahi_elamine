@@ -1,5 +1,4 @@
 ######################Initiation à R & Dataviz
-#Groupe 6 : DEKKAR Massyle & GUILBERT--ARRUGA Leo & GUENDOUZ Mahi Elamine
 #
 #
 #####Exercice 1: Estimation du Modèle MEDAF sur plusieurs périodes
